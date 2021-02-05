@@ -11,6 +11,9 @@ Built relational and ​NoSQL databases (MySQL, MongoDB) to capture real busines
 Designed algorithms (e.g., ​content-based​ recommendation) to implement business recommendation
 Deployed server side to ​Amazon EC2​ to handle 150 queries per second tested by ​Apache​ ​JMeter​.
 
+Front end:
+https://jsbin.com/yarepikexo/3/edit?output
+
 Web page shortcut:
 ![2451611709455_ pic_hd](https://user-images.githubusercontent.com/23581048/105927296-b6a66200-6011-11eb-852c-bea90f7ac599.jpg)
 ![2461611709467_ pic_hd](https://user-images.githubusercontent.com/23581048/105927303-b7d78f00-6011-11eb-988a-e3bac576098b.jpg)
