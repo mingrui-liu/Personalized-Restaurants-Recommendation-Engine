@@ -12,7 +12,7 @@ Designed algorithms (e.g., ​content-based​ recommendation) to implement busi
 Deployed server side to ​Amazon EC2​ to handle 150 queries per second tested by ​Apache​ ​JMeter​.
 
 Front end:
-https://jsbin.com/yarepikexo/3/edit?output
+https://jsbin.com/himihamowe/edit?output
 
 Web page shortcut:
 ![2451611709455_ pic_hd](https://user-images.githubusercontent.com/23581048/105927296-b6a66200-6011-11eb-852c-bea90f7ac599.jpg)
